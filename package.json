@@ -30,7 +30,7 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
-    "cypress": "^10.9.0",
+    "cypress": "^10.11.0",
     "cypress-plugin-api": "^1.2.3"
   }
 }
